@@ -1,5 +1,5 @@
 Ticker,Company,Sector,Industry
-A,Agilent Technologies Inc,Healthcare,Diagnostics & Research
+^VIX,MARKET INDICATOR,FEAR INDEX,MARKET INDICATOR
 AA,Alcoa Corp,Basic Materials,Aluminum
 AAL,American Airlines Group Inc,Industrials,Airlines
 AAOI,Applied Optoelectronics Inc,Technology,Communication Equipment
@@ -40,116 +40,67 @@ AIG,American International Group Inc,Financial,Insurance - Diversified
 AJG,Arthur J. Gallagher & Co,Financial,Insurance Brokers
 AKAM,Akamai Technologies Inc,Technology,Software - Infrastructure
 AL,Air Lease Corp,Industrials,Rental & Leasing Services
-ALAB,Astera Labs Inc,Technology,Semiconductors
-ALB,Albemarle Corp,Basic Materials,Specialty Chemicals
-ALC,Alcon Inc,Healthcare,Medical Instruments & Supplies
-ALGM,Allegro Microsystems Inc,Technology,Semiconductors
-ALGN,"Align Technology, Inc",Healthcare,Medical Instruments & Supplies
-ALHC,Alignment Healthcare Inc,Healthcare,Healthcare Plans
-ALK,Alaska Air Group Inc,Industrials,Airlines
-ALKS,Alkermes plc,Healthcare,Drug Manufacturers - Specialty & Generic
-ALLE,Allegion plc,Industrials,Security & Protection Services
-ALLY,Ally Financial Inc,Financial,Credit Services
-ALM,Almonty Industries Inc,Basic Materials,Other Industrial Metals & Mining
-ALMS,Alumis Inc,Healthcare,Biotechnology
-ALSN,Allison Transmission Holdings Inc,Consumer Cyclical,Auto Parts
-AM,Antero Midstream Corp,Energy,Oil & Gas Midstream
-AMAT,Applied Materials Inc,Technology,Semiconductor Equipment & Materials
-AMCR,Amcor Plc,Consumer Cyclical,Packaging & Containers
-AMD,Advanced Micro Devices Inc,Technology,Semiconductors
-AME,Ametek Inc,Industrials,Specialty Industrial Machinery
-AMGN,AMGEN Inc,Healthcare,Drug Manufacturers - General
-AMKR,AMKOR Technology Inc,Technology,Semiconductor Equipment & Materials
-AMPX,Amprius Technologies Inc,Industrials,Electrical Equipment & Parts
-AMRX,Amneal Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic
-AMRZ,Amrize Ltd,Basic Materials,Building Materials
-AMTM,Amentum Holdings Inc,Industrials,Specialty Business Services
-AMX,America Movil S.A.B.DE C.V. ADR,Communication Services,Telecom Services
-AMZN,Amazon.com Inc,Consumer Cyclical,Internet Retail
-ANET,Arista Networks Inc,Technology,Computer Hardware
-ANF,Abercrombie & Fitch Co,Consumer Cyclical,Apparel Retail
-AON,Aon plc,Financial,Insurance Brokers
-AOS,A.O. Smith Corp,Industrials,Specialty Industrial Machinery
-APA,APA Corporation,Energy,Oil & Gas E&P
-APD,Air Products & Chemicals Inc,Basic Materials,Specialty Chemicals
-APG,APi Group Corporation,Industrials,Engineering & Construction
-APH,Amphenol Corp,Technology,Electronic Components
-APLD,Applied Digital Corporation,Technology,Information Technology Services
-APLS,Apellis Pharmaceuticals Inc,Healthcare,Biotechnology
-APO,Apollo Global Management Inc,Financial,Asset Management
-APP,Applovin Corp,Communication Services,Advertising Agencies
-APTV,Aptiv PLC,Consumer Cyclical,Auto Parts
-AQN,Algonquin Power & Utilities Corp,Utilities,Utilities - Diversified
-AR,Antero Resources Corp,Energy,Oil & Gas E&P
-ARCC,Ares Capital Corp,Financial,Asset Management
-ARES,Ares Management Corp,Financial,Asset Management
-ARIS,Aris Mining Corp,Basic Materials,Gold
-ARM,Arm Holdings plc. ADR,Technology,Semiconductors
-ARMK,Aramark,Industrials,Specialty Business Services
-AROC,Archrock Inc,Energy,Oil & Gas Equipment & Services
-ARQT,Arcutis Biotherapeutics Inc,Healthcare,Biotechnology
-ARWR,Arrowhead Pharmaceuticals Inc,Healthcare,Biotechnology
-AS,Amer Sports Inc,Consumer Cyclical,Leisure
-ASB,Associated Banc-Corp,Financial,Banks - Regional
-ASML,ASML Holding NV,Technology,Semiconductor Equipment & Materials
-ASO,Academy Sports and Outdoors Inc,Consumer Cyclical,Specialty Retail
-ASTS,AST SpaceMobile Inc,Technology,Communication Equipment
-ASX,ASE Technology Holding Co.Ltd ADR,Technology,Semiconductors
-ATI,ATI Inc,Industrials,Metal Fabrication
-ATMU,Atmus Filtration Technologies Inc,Consumer Cyclical,Auto Parts
-ATO,Atmos Energy Corp,Utilities,Utilities - Regulated Gas
-AU,AngloGold Ashanti Plc,Basic Materials,Gold
-AUB,Atlantic Union Bankshares Corp,Financial,Banks - Regional
-AVAV,AeroVironment Inc,Industrials,Aerospace & Defense
-AVGO,Broadcom Inc,Technology,Semiconductors
-AVPT,AvePoint Inc,Technology,Software - Infrastructure
-AVTR,Avantor Inc,Healthcare,Medical Instruments & Supplies
-AWK,American Water Works Co. Inc,Utilities,Utilities - Regulated Water
-AXIA,Axia Energia ADR,Utilities,Utilities - Renewable
-AXP,American Express Co,Financial,Credit Services
-AXTA,Axalta Coating Systems Ltd,Basic Materials,Specialty Chemicals
-AZN,Astrazeneca plc,Healthcare,Drug Manufacturers - General
-B,Barrick Mining Corp,Basic Materials,Gold
-BA,Boeing Co,Industrials,Aerospace & Defense
-BABA,Alibaba Group Holding Ltd ADR,Consumer Cyclical,Internet Retail
-BAC,Bank Of America Corp,Financial,Banks - Diversified
-BAH,Booz Allen Hamilton Holding Corp,Industrials,Consulting Services
-BALL,Ball Corp,Consumer Cyclical,Packaging & Containers
-BAM,Brookfield Asset Management Ltd,Financial,Asset Management
-BANC,Banc of California Inc,Financial,Banks - Regional
-BAX,Baxter International Inc,Healthcare,Medical Instruments & Supplies
-BBIO,BridgeBio Pharma Inc,Healthcare,Biotechnology
-BBVA,Banco Bilbao Vizcaya Argentaria S.A. ADR,Financial,Banks - Diversified
-BBWI,Bath & Body Works Inc,Consumer Cyclical,Specialty Retail
-BBY,Best Buy Co. Inc,Consumer Cyclical,Specialty Retail
-BC,Brunswick Corp,Consumer Cyclical,Recreational Vehicles
-BCE,BCE Inc,Communication Services,Telecom Services
-BCRX,Biocryst Pharmaceuticals Inc,Healthcare,Drug Manufacturers - Specialty & Generic
-BCS,Barclays plc ADR,Financial,Banks - Diversified
-BDX,Becton Dickinson & Co,Healthcare,Medical Instruments & Supplies
-BE,Bloom Energy Corp,Industrials,Electrical Equipment & Parts
-BEAM,Beam Therapeutics Inc,Healthcare,Biotechnology
-BEKE,KE Holdings Inc ADR,Real Estate,Real Estate Services
-BEN,"Franklin Resources, Inc",Financial,Asset Management
-BEPC,Brookfield Renewable Corp,Utilities,Utilities - Renewable
-BETA,BETA Technologies Inc,Industrials,Aerospace & Defense
-BF-B,Brown-Forman Corp,Consumer Defensive,Beverages - Wineries & Distilleries
-BG,Bunge Global SA,Consumer Defensive,Farm Products
-BGC,BGC Group Inc,Financial,Capital Markets
-BHF,Brighthouse Financial Inc,Financial,Insurance - Life
-BHP,BHP Group Limited ADR,Basic Materials,Other Industrial Metals & Mining
-BIDU,Baidu Inc ADR,Communication Services,Internet Content & Information
-BILI,Bilibili Inc ADR,Communication Services,Internet Content & Information
-BILL,BILL Holdings Inc,Technology,Software - Application
-BIRK,Birkenstock Holding Plc,Consumer Cyclical,Footwear & Accessories
-BJ,BJ's Wholesale Club Holdings Inc,Consumer Defensive,Discount Stores
-BK,Bank Of New York Mellon Corp,Financial,Banks - Diversified
-BKD,Brookdale Senior Living Inc,Healthcare,Medical Care Facilities
-BKR,Baker Hughes Co,Energy,Oil & Gas Equipment & Services
-BKU,BankUnited Inc,Financial,Banks - Regional
-BLDR,Builders Firstsource Inc,Industrials,Building Products & Equipment
-BLK,Blackrock Inc,Financial,Asset Management
-BLSH,Bullish,Technology,Software - Infrastructure
+XLC,ETF,Communication Services,Communication Services Sector ETF
+XLK,ETF,Technology,Technology Sector ETF
+XLV,ETF,Health Care,Health Care Sector ETF
+XLF,ETF,Financials,Financial Sector ETF
+XLI,ETF,Industrials,Industrial Sector ETF
+XLY,ETF,Consumer Discretionary,Consumer Discretionary Sector ETF
+XLP,ETF,Consumer Staples,Consumer Staples Sector ETF
+XLE,ETF,Energy,Energy Sector ETF
+XLB,ETF,Materials,Materials Sector ETF
+XLRE,ETF,Real Estate,Real Estate Sector ETF
+XLU,ETF,Utilities,Utilities Sector ETF
+XBI,ETF,Health Care,Biotechnology ETF
+XHB,ETF,Consumer Discretionary,Homebuilders ETF
+CARZ,ETF,Consumer Discretionary,Auto Manufacturers ETF
+XHE,ETF,Health Care,Medical Equipment ETF
+KIE,ETF,Financials,Insurance ETF
+XAR,ETF,Industrials,Aerospace & Defense ETF
+SMH,ETF,Technology,Semiconductors ETF
+IGV,ETF,Technology,Software ETF
+XRT,ETF,Consumer Discretionary,Retail ETF
+XOP,ETF,Energy,Oil & Gas Exploration ETF
+XME,ETF,Materials,Metals & Mining ETF
+KBE,ETF,Financials,Banking ETF
+PBJ,ETF,Consumer Staples,Food & Beverage ETF
+KCE,ETF,Financials,Capital Markets ETF
+FDN,ETF,Communication Services,Internet ETF
+PEJ,ETF,Consumer Discretionary,Leisure & Entertainment ETF
+VHT,ETF,Health Care,Broad Health Care ETF
+VAW,ETF,Materials,Broad Materials ETF
+IYT,ETF,Industrials,Transportation ETF
+VGT,ETF,Technology,Broad Technology ETF
+ITB,ETF,Consumer Discretionary,Home Construction ETF
+IDRV,ETF,Consumer Discretionary,Self-Driving / EV ETF
+IBB,ETF,Health Care,Biotechnology ETF
+VCR,ETF,Consumer Discretionary,Broad Consumer Discretionary ETF
+VNQ,ETF,Real Estate,REIT ETF
+IHI,ETF,Health Care,Medical Devices ETF
+IAK,ETF,Financials,Insurance ETF
+ITA,ETF,Industrials,Aerospace & Defense ETF
+VDC,ETF,Consumer Staples,Broad Consumer Staples ETF
+VIS,ETF,Industrials,Broad Industrials ETF
+SOXX,ETF,Technology,Semiconductors ETF
+XSW,ETF,Technology,Software & Services ETF
+RTH,ETF,Consumer Discretionary,Retail ETF
+VPU,ETF,Utilities,Broad Utilities ETF
+VFH,ETF,Financials,Broad Financials ETF
+XES,ETF,Energy,Oil & Gas Equipment ETF
+PICK,ETF,Materials,Global Metals & Mining ETF
+VOX,ETF,Communication Services,Telecom ETF
+KRE,ETF,Financials,Regional Banks ETF
+FTXG,ETF,Industrials,Global Industrials ETF
+IAI,ETF,Financials,Broker-Dealers ETF
+PNQI,ETF,Communication Services,Internet ETF
+VDE,ETF,Energy,Broad Energy ETF
+PBS,ETF,Consumer Staples,Media & Publishing ETF
+IXJ,ETF,Health Care,Global Health Care ETF
+IYM,ETF,Materials,Basic Materials ETF
+FTXR,ETF,Industrials,Transportation ETF
+QQQ,ETF,Technology,Nasdaq-100 ETF
+PKB,ETF,Consumer Discretionary,Building & Construction ETF
+DRIV,ETF,Consumer Discretionary,Autonomous & EV ETF
 ARKG,ETF,Health Care,Genomics & Biotech ETF
 IYC,ETF,Consumer Discretionary,Consumer Services ETF
 SCHH,ETF,Real Estate,REIT ETF
@@ -173,7 +124,6 @@ BJK,ETF,Consumer Discretionary,Gaming & Casinos ETF
 ^DJI,MARKET INDICATOR,DOW JONES,MARKET INDICATOR
 ^NYA,MARKET INDICATOR,NYSE,MARKET INDICATOR
 ^RUT,MARKET INDICATOR,IWM,MARKET INDICATOR
-^VIX,MARKET INDICATOR,FEAR INDEX,MARKET INDICATOR
 ^TNX,MARKET INDICATOR,VOLATILITY,MARKET INDICATOR
 ^TYX,MARKET INDICATOR,10 YEAR TREASURY,MARKET INDICATOR
 ^IXIC,MARKET INDICATOR,NASDAQ,MARKET INDICATOR
